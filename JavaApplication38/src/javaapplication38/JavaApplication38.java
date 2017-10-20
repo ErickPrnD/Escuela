@@ -12,7 +12,7 @@ package javaapplication38;
 public class JavaApplication38 {
 
   /**
-   * @param args the command line arguments
+   * Se mamó
    */
   public static void main(String[] args) {
     System.out.println("Hola");
